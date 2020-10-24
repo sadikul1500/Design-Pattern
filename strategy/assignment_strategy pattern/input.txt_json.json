@@ -1,0 +1,32 @@
+{
+    "1": {
+        "Name": "Sakib",
+        "Roll": "1005",
+        "Adress": "Barisal"
+    },
+    "2": {
+        "Name": "Yasin",
+        "Roll": "1006",
+        "Adress": "Dhaka"
+    },
+    "3": {
+        "Name": "Dip",
+        "Roll": "1001",
+        "Adress": "Kishoreganj"
+    },
+    "4": {
+        "Name": "Purbo",
+        "Roll": "1004",
+        "Adress": "Kishoreganj"
+    },
+    "5": {
+        "Name": "Sami",
+        "Roll": "1033",
+        "Adress": "Dhaka"
+    },
+    "6": {
+        "Name": "Arman",
+        "Roll": "1029",
+        "Adress": "Bogura"
+    }
+}

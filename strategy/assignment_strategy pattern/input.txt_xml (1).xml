@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BSSE10>
+  <Student>
+     <Name>Sakib</Name>
+     <Roll>1005</Roll>
+     <Adress>Barisal</Adress>
+  </Student>
+  <Student>
+     <Name>Yasin</Name>
+     <Roll>1006</Roll>
+     <Adress>Dhaka</Adress>
+  </Student>
+  <Student>
+     <Name>Dip</Name>
+     <Roll>1001</Roll>
+     <Adress>Kishoreganj</Adress>
+  </Student>
+  <Student>
+     <Name>Purbo</Name>
+     <Roll>1004</Roll>
+     <Adress>Kishoreganj</Adress>
+  </Student>
+  <Student>
+     <Name>Sami</Name>
+     <Roll>1033</Roll>
+     <Adress>Dhaka</Adress>
+  </Student>
+  <Student>
+     <Name>Arman</Name>
+     <Roll>1029</Roll>
+     <Adress>Bogura</Adress>
+  </Student>
+</BSSE10>
