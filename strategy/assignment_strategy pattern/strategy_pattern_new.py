@@ -127,15 +127,20 @@ if __name__ == '__main__':
   for i in range(3):
     convertion = IConvertion
     choice = int(input('1.csv\n2.json\n3.xml\n'))
-
+    client = None
+    
     if choice == 1:
-      convertion = ConvertToCSV()
+      client = Client(ConvertToCSV())
+      #convertion = ConvertToCSV()
     elif choice == 2:
-      convertion = ConvertToJSON()
+      client = Client(ConvertToJSON())
+      #convertion = ConvertToJSON()
     elif choice == 3:
-      convertion = ConvertToXML()
+      client = Client(ConvertToXML())
+      #convertion = ConvertToXML()
     #else:
     #  exit(0)
 
     #x = ConvertToXML
-    convertion.convert('input.txt')
+    #convertion.convert('input.txt')
+    client.applyStrategy('input.txt')
